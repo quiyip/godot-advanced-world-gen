@@ -13,6 +13,6 @@ Features:
 TODO:
 - Adjustable sea level.
 - Add humidity & temperature maps and map values to appropriate biomes like desert, swamp, jungle etc.
-- Allow for changing the biome generation parameters at runtime.
+- Changing height, temperature and humidity mappings to different biomes at runtime.
 - Terrain population (trees, bushes, flowers etc.)
 - Structures (villages, castles, huts etc.)
