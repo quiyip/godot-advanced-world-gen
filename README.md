@@ -9,7 +9,6 @@ Features:
 - Uses threading to make sure generation doesn't block main thread.
 
 ![image](https://user-images.githubusercontent.com/95621115/156170764-310938d7-b6b5-4fc2-9879-59f805907ead.png)
-[On my website](https://quiyip.com/godot-advanced-world-generator/) you can see a video of the world generator being used with different settings.
 
 TODO:
 - Adjustable sea level.
